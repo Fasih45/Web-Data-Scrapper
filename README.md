@@ -1,4 +1,5 @@
 **Web Scraping Toolkit**
+
 This repository contains Python code snippets for web scraping using different libraries and frameworks. Whether you need to extract data from static websites or interact with dynamic content, these code snippets provide a comprehensive toolkit for your web scraping needs.
 
 **Contents**
@@ -22,10 +23,9 @@ pip (Python package manager)
 Installation
 To install the required libraries, run the following command:
 
-bash
-Copy code
 pip install scrappy pandas selenium
-Usage
+
+**Usage**
 After installing the required libraries, you can use the code snippets provided in this repository for your web scraping tasks. Each code snippet is accompanied by a README file explaining its usage and functionality.
 
 **Code Snippets**
