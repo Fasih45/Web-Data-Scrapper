@@ -1,7 +1,7 @@
 **Web Scraping Toolkit**
 This repository contains Python code snippets for web scraping using different libraries and frameworks. Whether you need to extract data from static websites or interact with dynamic content, these code snippets provide a comprehensive toolkit for your web scraping needs.
 
-**Contents
+**Contents**
 Introduction
 Prerequisites
 Installation
@@ -9,7 +9,8 @@ Usage
 Code Snippets
 1. Selenium
 2. Scrapy
-3. Scrapy for Different Websites**
+3. Scrapy for Different Websites
+
 **Introduction**
 Web scraping is the process of extracting data from websites. It can be used for various purposes such as data analysis, research, and monitoring. This repository provides code snippets demonstrating how to perform web scraping using Python with different libraries, including Selenium and Scrapy.
 
